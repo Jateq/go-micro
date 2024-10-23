@@ -2,4 +2,4 @@
 
 Highly available, scalable, resilient distributed applications
 
-- Docker
+- Docker.
