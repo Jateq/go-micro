@@ -1,5 +1,18 @@
-# Working with Microservices in Go
+# Microservice application using Go
 
-Highly available, scalable, resilient distributed applications
+Web application that connects to 5 microservices.
 
-- Docker.
+
+## Functionality:
+- Receiving requests from front-end
+- Authentication with Postgres
+- Logger with MongoDB
+- Sending emails
+- Message consumer with RabbitMQ
+
+## Technologies:
+- Rest API with JSON
+- RPC and gRPC
+- Docker
+- MongoDB, Postgres, RabbitMQ
+- AMQP (Advanced Message Queuing Protocol)
